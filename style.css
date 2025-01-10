@@ -1,0 +1,49 @@
+/* // <uniquifier>: Use a unique and descriptive class name */
+/* // <weight>: Use a value from 100 to 900 */
+/* // <uniquifier>: Use a unique and descriptive class name */
+/* // <weight>: Use a value from 100 to 900 */
+
+
+
+
+section{
+   width:1000px ;
+   height: 380px;
+   background-color:#C6E4D6;
+   display: flex;
+   padding: 100px 80px;
+   margin: 50px 120px ;
+   border-radius: 24px;
+   /* width: 50%; */
+   gap: 19px;
+   
+}
+.open{
+    /* background-color: red; */
+    justify-content: left;
+    width: 50%;
+    
+}
+.button{
+    background-color: #006A50;
+    padding: 30px 15px;
+    border: none;
+    border-radius: 8px;
+    color:#FFFFFF;
+
+}
+.color-1{
+   color: #000000;
+   font-size: 48px;
+   font-weight: bold;
+}
+.color-2{
+    color: #0E0E0E ;
+    font-size: 24px;
+}
+.pic{
+    width: 473px;
+    height: 400px; 
+    /* width: 50%; */
+    
+}
