@@ -6,7 +6,7 @@
 
 
 
-section{
+header>section{
    width:1000px ;
    height: 380px;
    background-color:#C6E4D6;
@@ -46,4 +46,65 @@ section{
     height: 400px; 
     /* width: 50%; */
     
+}
+.saju{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.a{
+    font-size:16px ;
+    color:#0E0E0E ;
+}
+main{
+  margin: 50px 120px ;;
+}
+.main{
+    width: 1280px;
+    height: 765px;
+    justify-content: left;
+}
+.secound{
+    display: flex;
+    gap: 24px;
+}
+.b{
+    font-size: 20px;
+    color: #0E0E0E;
+    font-weight: bold;
+}
+.c{
+    padding: 20px 11px;
+    font-size: 16px;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+}
+.v{
+   background-color: #4487fa;
+  
+}
+.n{
+  background-color: #09a15c;
+ 
+  text-align: center;
+  justify-content: center;
+}
+.m{
+  background-color: #fcc239;
+}
+.color-3{
+  background-color: #aab8cf;
+  border-radius: 16px; 
+  padding: 32px 32px;
+}
+.color-4{
+background-color: #c6f4d6;
+border-radius: 16px; 
+padding: 32px 32px;
+}
+.color-5{
+ background-color: #f7ebcf;
+ border-radius: 16px; 
+ padding: 32px 32px;
 }
