@@ -53,8 +53,19 @@ header>section{
     color: #0E0E0E;
 }
 .a{
-    font-size:16px ;
+    font: size 16px;px ;
     color:#0E0E0E ;
+}
+.yunus{
+  width: 1280px;
+  height: 256px;
+  justify-content: left;
+  padding:  48px 24px;
+  background-image: url(assets/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: 24px 48px;
+}
+.yunus-text{
 }
 main{
   margin: 50px 120px ;;
@@ -87,8 +98,8 @@ main{
 .n{
   background-color: #09a15c;
  
-  text-align: center;
-  justify-content: center;
+  /* text-align: center; */
+  /* justify-content: center; */
 }
 .m{
   background-color: #fcc239;
@@ -102,6 +113,7 @@ main{
 background-color: #c6f4d6;
 border-radius: 16px; 
 padding: 32px 32px;
+width: 50%;
 }
 .color-5{
  background-color: #f7ebcf;
@@ -147,6 +159,9 @@ padding: 32px 32px;
 
     width:50%;
     
+}
+.c:hover{
+    background-color:rgb(34, 27, 27) ;
 }
 .s{
     text-align: center;
