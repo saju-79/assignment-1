@@ -148,3 +148,74 @@ padding: 32px 32px;
     width:50%;
     
 }
+.s{
+    text-align: center;
+}
+.taka{
+    padding: 40px 40px ;
+    border-radius: 16px;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: #f3dcdc;
+
+}
+.rabbi{
+    margin-bottom: 32px;
+}
+
+.taka:hover{
+    background-color: #a9cebd;
+}
+.taka-a {
+    background-color: #C6E4D6;
+}
+.main-taka{
+    justify-content: space-between;
+    display: flex;
+}
+.other-taka{
+    padding: 40px 20px ;
+    width: 1032px;
+    height: 64px;
+    font-size: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #f7f4f0;
+}
+.d{
+    text-align: center;
+}
+.sub{
+    width: 1280px ;
+    height: 395px;
+    border-radius: 24px;
+   background-color:#C6E4D6;
+   padding: 100px 80px ;
+   justify-content: center;
+   text-align: center;
+}
+footer{
+    /* margin: 50px 120px ; */
+}
+.subscribe{
+    display: flex;
+    justify-content: center;
+}
+.button-3{
+    border-radius: 0 8px 8px  0;
+    padding:  17px 34px;
+}
+.button-4{
+    border-radius:  8px 0  0 8px   ;
+    border: none;
+    padding: 18px 40px;
+    color: #FFFFFF;
+    width: 600px;
+    height: 55px;
+}
+.j{
+  font-size: 40px;
+}
+.h{
+    font-size: 16px;
+}
